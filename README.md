@@ -9,19 +9,19 @@ Install the package in your React project.
 npm:
 
 ```sh
-npm install @interest-protocol/raptos
+npm install @interest-protocol/reaptos
 ```
 
 yarn:
 
 ```sh
-yarn add @interest-protocol/raptos
+yarn add @interest-protocol/reaptos
 ```
 
 pnpm:
 
 ```sh
-pnpm install @interest-protocol/raptos #npm-like
+pnpm install @interest-protocol/reaptos #npm-like
 # or
-pnpm add @interest-protocol/raptos #yarn-like
+pnpm add @interest-protocol/reaptos #yarn-like
 ```
