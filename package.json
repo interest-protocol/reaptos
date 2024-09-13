@@ -1,5 +1,5 @@
 {
-  "name": "@interest-protocol/raptos",
+  "name": "@interest-protocol/reaptos",
   "version": "0.0.1",
   "description": "Aptos React Library to create a complete DApp.",
   "src": "src/lib/index.ts",

@@ -1,6 +1,6 @@
-# @interest-protocol/raptos
+# @interest-protocol/reaptos
 
-A sdk for DApp development on Aptos chain
+React Aptos lib for DApp development on Aptos chain
 
 ## Hot to use
 
