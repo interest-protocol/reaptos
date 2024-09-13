@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "jsx": "react",
-    "target": "ES6",
+    "target": "es2017",
     "strict": true,
     "esModuleInterop": true,
+    "skipLibCheck": true,
     "removeComments": false,
     "noImplicitAny": true,
     "sourceMap": false,
