@@ -31,10 +31,8 @@ const CoinsManager: FC<CoinsManagerProps> = ({
         });
 
         const coins = coinsRawData.map(({ amount, asset_type, metadata }) => ({
-          name: metadata?.name,
+          metadata,
           balance: String(amount),
-          symbol: metadata?.symbol,
-          decimals: metadata?.decimals,
           type: (asset_type ?? metadata?.asset_type)!,
         }));
 

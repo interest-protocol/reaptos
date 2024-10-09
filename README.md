@@ -2,7 +2,7 @@
 
 React Aptos lib for DApp development on Aptos chain
 
-## Hot to use
+## How to use
 
 Install the package in your React project.
 
